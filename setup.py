@@ -14,8 +14,8 @@ setup_requirements = [ ]
 test_requirements = [ ]
 
 setup(
-    author="Sean Boyle",
-    author_email='sean.boyle@pearson.com',
+    author="Daeshik Choi",
+    author_email='math.dchoi@gmail.com',
     python_requires='>=3.5',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
